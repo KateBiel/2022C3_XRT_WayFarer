@@ -10,9 +10,23 @@ As part of our continuous improvement process, we've elevated the user experienc
 
 ✨ Timeline: 2 weeks
 
-🔴 YouTube Demo: [WayFarer360 Gameplay]([https://youtu.be/GtmAc1zIBew](https://studio.youtube.com/video/QFpS6PKkAqw/edit))
+🔴 YouTube Demo: [WayFarer360 Gameplay](https://www.youtube.com/watch?v=QFpS6PKkAqw&ab_channel=KattBiel)
 
-🔴 YouTube Demo: [WayFarerVR Gameplay]([https://youtu.be/GtmAc1zIBew](https://www.youtube.com/watch?v=232LOK4qN9U&ab_channel=KattBiel)https://www.youtube.com/watch?v=232LOK4qN9U&ab_channel=KattBiel)
+    - Current version
+    - Unity 2021.3.13 //check version
+    - 3D URP
+    - PC Only 
+
+
+🔴 YouTube Demo: [WayFarerVR Gameplay](https://youtu.be/GtmAc1zIBew](https://www.youtube.com/watch?v=232LOK4qN9U&ab_channel=KattBiel)https://www.youtube.com/watch?v=232LOK4qN9U&ab_channel=KattBie)
+
+    - Current version
+    - Unity 2021.3.13 //check version
+    - 3D URP
+    - XR Interaction Toolkit //check version
+    - Works on the Oculus Quest; compatibility with other platforms hasn't been tested. 
+
+📚 The main objective of WayFarer360 to provide an immersive virtual travel experience emphasizing architectural history, tailored for individuals desiring exploration without physical constraints and educators in search of innovative, interactive learning tools.
 
 ## Meet the Developers! 🤝
 
@@ -23,3 +37,14 @@ As part of our continuous improvement process, we've elevated the user experienc
 
 ### 👩‍🎨 Aishwarya B. 
 ### 👩‍🎨 ‎‏‏Jenifer J.
+
+<details>
+ <summary><h3>👨‍💻 Update: 2023</h3></summary>
+    
+</details>
+
+<details>
+ <summary><h3>👨‍💻 More Info About Project</h3></summary>
+    
+</details>
+
