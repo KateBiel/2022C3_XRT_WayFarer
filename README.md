@@ -1,4 +1,4 @@
-# 2022C3_XRT_WayFarer_Jun20/22
+# 2022C3_XRT_WayFarer_May31/22
 
 
 ![95kybi_Minimalistic_3d_model_hd_vr_glasses_NYC_mini_model_white_c3654ca4-69ff-449a-89ad-273c85ed376bc4](https://github.com/KateBiel/2022C3_XRT_WayFarer/assets/103016794/e6edd48e-abc1-4120-ac00-5d5785355d72)
