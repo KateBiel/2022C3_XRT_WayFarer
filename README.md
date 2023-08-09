@@ -39,12 +39,12 @@ As part of our continuous improvement process, we've elevated the user experienc
 ### 👩‍🎨 ‎‏‏Jenifer J.
 
 <details>
- <summary><h3>👨‍💻 Update: 2023</h3></summary>
+ <summary><h3>💻 Update: 2023</h3></summary>
     
 </details>
 
 <details>
- <summary><h3>👨‍💻 More Info About Project</h3></summary>
+ <summary><h3>💻 More Info About Project</h3></summary>
     
 </details>
 
