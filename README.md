@@ -12,7 +12,6 @@ As part of our continuous improvement process, we've elevated the user experienc
 
 🔴 YouTube Demo: [WayFarer360 Gameplay](https://www.youtube.com/watch?v=QFpS6PKkAqw&ab_channel=KattBiel)
 
-    - Current version
     - Unity 2021.3.13 //check version
     - 3D URP
     - PC Only 
@@ -20,7 +19,6 @@ As part of our continuous improvement process, we've elevated the user experienc
 
 🔴 YouTube Demo: [WayFarerVR Gameplay](https://youtu.be/GtmAc1zIBew](https://www.youtube.com/watch?v=232LOK4qN9U&ab_channel=KattBiel)https://www.youtube.com/watch?v=232LOK4qN9U&ab_channel=KattBie)
 
-    - Current version
     - Unity 2021.3.13 //check version
     - 3D URP
     - XR Interaction Toolkit //check version
@@ -40,11 +38,23 @@ As part of our continuous improvement process, we've elevated the user experienc
 
 <details>
  <summary><h3>💻 Update: 2023</h3></summary>
-    
+
+I decided to use this prototype as an experimental ground for my learning. Last year, there were extended team objectives that we were unable to complete due to our limited understanding of Unity and the tight project timeline. Now, with time having passed, I've gained more experience in C# and Unity and have also acquired knowledge in UX design. It will be interesting to test my newly acquired skills to see if I can successfully implement the material I've learned and apply my problem-solving skills.
+
+insides: 
+
+🔴 YouTube Demo: [WayFarerVR Main Menu](https://www.youtube.com/shorts/NnH_QHluVlc)
+
+    - In 2023, I've gained knowledge in UX design and learned about ShapesXR. Now, I'm back to make this project better. I want to create an easier-to-use interface, with a clear menu for Travel and Learn experiences.
+
+🔴 YouTube Demo: [WayFarerVR Quiz Logic](https://www.youtube.com/watch?v=m84a_ciq5zs&ab_channel=KattBiel)
+
+    - In 2023, I was also focused on enhancing my abilities as a developer. I created the Quiz Logic for the WayFarer prototype as an experiment, handling local registry within Unity through the use of PlayerPrefs. While the concept is relatively simple, it effectively meets all of my current needs.
+
 </details>
 
 <details>
  <summary><h3>💻 More Info About Project</h3></summary>
-    
+    will be added soon...
 </details>
 
