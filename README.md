@@ -1,7 +1,7 @@
 # 2022C3_XRT_XReOnia_WayFarer_Jun20/22
 
+![WayFarer](https://github.com/KateBiel/2022C3_XRT_XReOnia_WayFarer/assets/103016794/040113e9-abcc-455e-9612-fb6c7d5eb727)
 
-![95kybi_Minimalistic_3d_model_hd_vr_glasses_NYC_mini_model_white_c3654ca4-69ff-449a-89ad-273c85ed376bc4](https://github.com/KateBiel/2022C3_XRT_WayFarer/assets/103016794/e6edd48e-abc1-4120-ac00-5d5785355d72)
 #  🎒 WayFarer360 🚶
 
 WayFarer360 is an educational prototype created by a four-member team during the XR Developer Bootcamp at XR Terra. Initially designed for PC, it shares engaging narratives from three iconic NYC 🗽 locations: the World Trade Center, the Flatiron, and Federal Hall. After touring, users can take a quiz on their new knowledge.
