@@ -45,11 +45,11 @@ insides:
 
 🔴 YouTube Demo: [WayFarerVR Main Menu](https://www.youtube.com/shorts/NnH_QHluVlc)
 
-    - In 2023, I've gained knowledge in UX design and learned about ShapesXR. Now, I'm back to make this project better. I want to create an easier-to-use interface, with a clear menu for Travel and Learn experiences.
+In 2023, I've gained knowledge in UX design and learned about ShapesXR. Now, I'm back to make this project better. I want to create an easier-to-use interface, with a clear menu for Travel and Learn experiences.
 
 🔴 YouTube Demo: [WayFarerVR Quiz Logic](https://www.youtube.com/watch?v=m84a_ciq5zs&ab_channel=KattBiel)
 
-    - In 2023, I was also focused on enhancing my abilities as a developer. I created the Quiz Logic for the WayFarer prototype as an experiment, handling local registry within Unity through the use of PlayerPrefs. While the concept is relatively simple, it effectively meets all of my current needs.
+In 2023, I was also focused on enhancing my abilities as a developer. I created the Quiz Logic for the WayFarer prototype as an experiment, handling local registry within Unity through the use of PlayerPrefs. While the concept is relatively simple, it effectively meets all of my current needs.
 
 </details>
 
