@@ -1,4 +1,4 @@
-# 2022C3_XRT_XReOnia_WayFarer_Jun20/22
+# XRTerra_XReOnia_WayFarer_Jun20/22
 
 ![WayFarer](https://github.com/KateBiel/2022C3_XRT_XReOnia_WayFarer/assets/103016794/040113e9-abcc-455e-9612-fb6c7d5eb727)
 
