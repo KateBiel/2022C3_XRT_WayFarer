@@ -53,8 +53,8 @@ In 2023, I was also focused on enhancing my abilities as a developer. I created 
 
 </details>
 
-<details>
- <summary><h3>💻 More Info About Project</h3></summary>
-    will be added soon...
-</details>
+
+> [!NOTE]
+> Updated documentation for this project will be uploaded soon. It will provide clear insights into the project's progress and implementation of new features.
+
 
