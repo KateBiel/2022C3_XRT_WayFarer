@@ -36,25 +36,31 @@ As part of our continuous improvement process, we've elevated the user experienc
 ### 👩‍🎨 Aishwarya B. 
 ### 👩‍🎨 ‎‏‏Jenifer J.
 
+
+ <summary><h2>💻 Target Users </h2></summary>
+
+Primary:  Users who are seeking immersive travel experiences without physical movement, with a special interest in architectural history.
+Secondary:  Users in educational fields looking for unique, interactive tools to enhance learning experiences.
+
+ <summary><h2>💻 UI Sketches </h2></summary>
+ 
+![image](https://github.com/KateBiel/2022C3_XRT_XReOnia_WayFarer/assets/103016794/25c67724-d93d-4874-816a-5026c211f170)
+
 <details>
- <summary><h3>💻 Update: 2023</h3></summary>
-
-I decided to use this prototype as an experimental ground for my learning. Last year, there were extended team objectives that we were unable to complete due to our limited understanding of Unity and the tight project timeline. Now, with time having passed, I've gained more experience in C# and Unity and have also acquired knowledge in UX design. It will be interesting to test my newly acquired skills to see if I can successfully implement the material I've learned and apply my problem-solving skills.
-
-insides: 
+ <summary><h3>💻 How Can We Improve in the Future? </h3></summary>
+    
+insides:  
 
 🔴 YouTube Demo: [WayFarerVR Main Menu](https://www.youtube.com/shorts/NnH_QHluVlc)
 
-In 2023, I've gained knowledge in UX design and learned about ShapesXR. Now, I'm back to make this project better. I want to create an easier-to-use interface, with a clear menu for Travel and Learn experiences.
+Design easier-to-use interface, with a clear menu for Travel and Learn experiences.
+Separating the modes allows for a more streamlined and focused user experience within each mode. Users can immerse themselves fully in either the travel or learning aspect without distractions or interruptions from the other mode.
 
 🔴 YouTube Demo: [WayFarerVR Quiz Logic](https://www.youtube.com/watch?v=m84a_ciq5zs&ab_channel=KattBiel)
 
-In 2023, I was also focused on enhancing my abilities as a developer. I created the Quiz Logic for the WayFarer prototype as an experiment, handling local registry within Unity through the use of PlayerPrefs. While the concept is relatively simple, it effectively meets all of my current needs.
+Develop better quiz logic for the WayFarer prototype. As an experiment, managing local registry within Unity using PlayerPrefs. Though the concept is relatively straightforward, it adequately fulfills all the project's current requirements
 
 </details>
 
-
-> [!NOTE]
-> Updated documentation for this project will be uploaded soon. It will provide clear insights into the project's progress and implementation of new features.
 
 
